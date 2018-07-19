@@ -1,0 +1,7 @@
+C:\Users\Bijay\source\repos\Lab3Project\Lab3Project\bin\Debug\Lab3Project.exe.config
+C:\Users\Bijay\source\repos\Lab3Project\Lab3Project\bin\Debug\Lab3Project.exe
+C:\Users\Bijay\source\repos\Lab3Project\Lab3Project\bin\Debug\Lab3Project.pdb
+C:\Users\Bijay\source\repos\Lab3Project\Lab3Project\obj\Debug\Lab3Project.csprojAssemblyReference.cache
+C:\Users\Bijay\source\repos\Lab3Project\Lab3Project\obj\Debug\Lab3Project.csproj.CoreCompileInputs.cache
+C:\Users\Bijay\source\repos\Lab3Project\Lab3Project\obj\Debug\Lab3Project.exe
+C:\Users\Bijay\source\repos\Lab3Project\Lab3Project\obj\Debug\Lab3Project.pdb
